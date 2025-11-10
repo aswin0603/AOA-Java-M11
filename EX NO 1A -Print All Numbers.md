@@ -42,9 +42,7 @@ public class Main {
 The program successfully print all the numbers from 1 to N. 
 
 ```
-/*
 Program to implement Reverse a String
 Developed by: ASWIN B
 Register Number:  212224110007
-*/
 ```
