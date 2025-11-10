@@ -46,7 +46,6 @@ The program successfully implemented and the expected output is verified.
 
 
 ```
-Program to implement Reverse a String
 Developed by: ASWIN B
 Register Number:  212224110007
 ```
